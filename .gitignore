@@ -1,0 +1,10 @@
+# OS X temporary files that should never be committed
+.DS_Store
+
+# Xcode temporary files that should never be committed
+*~.nib
+
+# Xcode build files -
+DerivedData/
+build/
+
